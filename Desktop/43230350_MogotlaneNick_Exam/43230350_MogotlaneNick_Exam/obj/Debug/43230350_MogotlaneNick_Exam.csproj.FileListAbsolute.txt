@@ -1,0 +1,16 @@
+C:\Users\43230350\source\repos\43230350_MogotlaneNick_Exam\43230350_MogotlaneNick_Exam\bin\Debug\43230350_MogotlaneNick_Exam.exe.config
+C:\Users\43230350\source\repos\43230350_MogotlaneNick_Exam\43230350_MogotlaneNick_Exam\bin\Debug\43230350_MogotlaneNick_Exam.exe
+C:\Users\43230350\source\repos\43230350_MogotlaneNick_Exam\43230350_MogotlaneNick_Exam\bin\Debug\43230350_MogotlaneNick_Exam.pdb
+C:\Users\43230350\source\repos\43230350_MogotlaneNick_Exam\43230350_MogotlaneNick_Exam\obj\Debug\43230350_MogotlaneNick_Exam.csproj.AssemblyReference.cache
+C:\Users\43230350\source\repos\43230350_MogotlaneNick_Exam\43230350_MogotlaneNick_Exam\obj\Debug\_43230350_MogotlaneNick_Exam.Form1.resources
+C:\Users\43230350\source\repos\43230350_MogotlaneNick_Exam\43230350_MogotlaneNick_Exam\obj\Debug\_43230350_MogotlaneNick_Exam.Properties.Resources.resources
+C:\Users\43230350\source\repos\43230350_MogotlaneNick_Exam\43230350_MogotlaneNick_Exam\obj\Debug\43230350_MogotlaneNick_Exam.csproj.GenerateResource.cache
+C:\Users\43230350\source\repos\43230350_MogotlaneNick_Exam\43230350_MogotlaneNick_Exam\obj\Debug\43230350_MogotlaneNick_Exam.csproj.CoreCompileInputs.cache
+C:\Users\43230350\source\repos\43230350_MogotlaneNick_Exam\43230350_MogotlaneNick_Exam\obj\Debug\43230350_MogotlaneNick_Exam.exe
+C:\Users\43230350\source\repos\43230350_MogotlaneNick_Exam\43230350_MogotlaneNick_Exam\obj\Debug\43230350_MogotlaneNick_Exam.pdb
+C:\Users\43230350\source\repos\43230350_MogotlaneNick_Exam\43230350_MogotlaneNick_Exam\obj\Debug\_43230350_MogotlaneNick_Exam.Form2.resources
+C:\Users\43230350\source\repos\43230350_MogotlaneNick_Exam\43230350_MogotlaneNick_Exam\obj\Debug\_43230350_MogotlaneNick_Exam.Form3.resources
+C:\Users\43230350\source\repos\43230350_MogotlaneNick_Exam\43230350_MogotlaneNick_Exam\obj\Debug\_43230350_MogotlaneNick_Exam.Form4.resources
+C:\Users\43230350\source\repos\43230350_MogotlaneNick_Exam\43230350_MogotlaneNick_Exam\obj\Debug\_43230350_MogotlaneNick_Exam.Form5.resources
+C:\Users\43230350\source\repos\43230350_MogotlaneNick_Exam\43230350_MogotlaneNick_Exam\bin\Debug\EventConnectDB.mdf
+C:\Users\43230350\source\repos\43230350_MogotlaneNick_Exam\43230350_MogotlaneNick_Exam\bin\Debug\EventConnectDB_log.ldf
